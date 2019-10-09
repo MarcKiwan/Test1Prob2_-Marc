@@ -1,0 +1,4 @@
+alias cdd='cd ~/Desktop'
+alias gits='git status -s' 
+alias sc1='source ~/.bashrc'
+
